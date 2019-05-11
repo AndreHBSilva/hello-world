@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Testando a criação de repositórios no Git. Logo mais, haverá outros projetos aqui!
